@@ -1,7 +1,7 @@
 # Hi, I'm Allison!
 
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=allisontaillard&show_icons=true&theme=radical" />
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allisontaillard&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=allisontaillard&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allisontaillard&layout=compact" />
 
 ## My skills
 
