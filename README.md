@@ -1,6 +1,6 @@
 # Hi, I'm Allison!
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allisontaillard&layout=compact" />
+<!--<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allisontaillard&layout=compact" />-->
 
 <br />
 
